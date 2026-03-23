@@ -18,7 +18,11 @@ Interactive Power BI dashboard showcasing customer segments, revenue trends, and
 Identified customer segments (New, Returning, Loyal)
 Analyzed spending behavior and discount impact
 Derived actionable business insights
-▶️ How to Run
+How to Run:-
+
+
+
+
 Load dataset in Python
 Perform cleaning & EDA
 Execute SQL queries
